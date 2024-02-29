@@ -30,4 +30,9 @@ For an in-depth guide on the implementation, please visit: [Medium Blog](https:/
    ```python
    streamlit run app.py
    ```
+5. **AWS Configuration**: To configure AWS please run the following in the terminal and provide AWS credentials.
+   ```
+   aws configure
+   ```
+   
 ------------------------------------------
