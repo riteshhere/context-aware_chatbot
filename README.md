@@ -2,6 +2,7 @@
 Chatbot using Amazon Bedrock, Langchain &amp; Streamlit
 
 ### Project Overview
+
 Leveraging LangChain and Amazon Bedrock, we develop a context-enhanced chatbot utilizing ConversationSummaryBufferMemory for historical context retention, ConversationChain for dialogue orchestration, and Streamlit for UI deployment. This guide covers environment setup, LM configuration, memory handling, and UI development for advanced, context-aware chatbot creation, targeting developers and AI aficionados to elevate digital user interaction and engagement.
 ------------------------------------------
 
