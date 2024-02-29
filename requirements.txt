@@ -1,0 +1,4 @@
+langchain
+awscli
+boto3
+streamlit
