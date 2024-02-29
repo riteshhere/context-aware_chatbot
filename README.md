@@ -11,7 +11,9 @@ Leveraging LangChain and Amazon Bedrock, we develop a context-enhanced chatbot u
 
 ------------------------------------------
 ### Detailed Explanation
-To read detailed explanation about the implementation please visit: [Medium Blog](https://medium.com/@xriteshsharmax/context-aware-chatbot-development-59d8c8731987)
+
+For an in-depth guide on the implementation, please visit: [Medium Blog](https://medium.com/@xriteshsharmax/context-aware-chatbot-development-59d8c8731987)
+
 ------------------------------------------
 
 ### How to run
